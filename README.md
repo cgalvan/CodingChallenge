@@ -14,7 +14,7 @@ example of the program’s output to Bit Bucket or Github.
 ### Solution Steps
 - Change your working directory to the Problem1 sub-directory.
 - Install the necessary node dependencies by running `npm install`
-- Create a random person dataset by running `node genereateList.js -o <outputFile> -n <numberOfPeople>`,
+- Create a random person dataset by running `node generateList.js -o <outputFile> -n <numberOfPeople>`,
 OR you can use an existing dataset from the testData directory
 
 ## Problem 2
