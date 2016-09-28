@@ -1,0 +1,502 @@
+[
+	{
+		"name": "Arthur Romero",
+		"birthYear": 1940,
+		"deathYear": 1962
+	},
+	{
+		"name": "Billy Estrada",
+		"birthYear": 1996,
+		"deathYear": 2000
+	},
+	{
+		"name": "Charles Fitzgerald",
+		"birthYear": 1997,
+		"deathYear": 1997
+	},
+	{
+		"name": "Margaret Hammond",
+		"birthYear": 1924,
+		"deathYear": 1975
+	},
+	{
+		"name": "Mina Steele",
+		"birthYear": 1922,
+		"deathYear": 1973
+	},
+	{
+		"name": "Dylan Franklin",
+		"birthYear": 1991,
+		"deathYear": 1999
+	},
+	{
+		"name": "Harvey Hicks",
+		"birthYear": 1954,
+		"deathYear": 1965
+	},
+	{
+		"name": "Austin Bishop",
+		"birthYear": 1939,
+		"deathYear": 1976
+	},
+	{
+		"name": "Steven Glover",
+		"birthYear": 1906,
+		"deathYear": 1982
+	},
+	{
+		"name": "Alta James",
+		"birthYear": 1950,
+		"deathYear": 1994
+	},
+	{
+		"name": "Betty Fitzgerald",
+		"birthYear": 1987,
+		"deathYear": 1989
+	},
+	{
+		"name": "Christine Logan",
+		"birthYear": 1927,
+		"deathYear": 1980
+	},
+	{
+		"name": "Sylvia Luna",
+		"birthYear": 1971,
+		"deathYear": 1995
+	},
+	{
+		"name": "Alberta Evans",
+		"birthYear": 1940,
+		"deathYear": 1982
+	},
+	{
+		"name": "Dennis Gross",
+		"birthYear": 1911,
+		"deathYear": 1981
+	},
+	{
+		"name": "Alex Watkins",
+		"birthYear": 1940,
+		"deathYear": 1949
+	},
+	{
+		"name": "Myra Garrett",
+		"birthYear": 1904,
+		"deathYear": 1916
+	},
+	{
+		"name": "Mina Davis",
+		"birthYear": 1962,
+		"deathYear": 1982
+	},
+	{
+		"name": "Lawrence Wade",
+		"birthYear": 1929,
+		"deathYear": 1931
+	},
+	{
+		"name": "Seth Pope",
+		"birthYear": 1916,
+		"deathYear": 1918
+	},
+	{
+		"name": "Glen Meyer",
+		"birthYear": 1992,
+		"deathYear": 1994
+	},
+	{
+		"name": "Mark Norris",
+		"birthYear": 1916,
+		"deathYear": 1987
+	},
+	{
+		"name": "Alma Carson",
+		"birthYear": 1955,
+		"deathYear": 1969
+	},
+	{
+		"name": "Julian Watson",
+		"birthYear": 1956,
+		"deathYear": 1969
+	},
+	{
+		"name": "Gene Lopez",
+		"birthYear": 1937,
+		"deathYear": 1955
+	},
+	{
+		"name": "Leah Webb",
+		"birthYear": 1995,
+		"deathYear": 1998
+	},
+	{
+		"name": "Fannie Duncan",
+		"birthYear": 1910,
+		"deathYear": 1913
+	},
+	{
+		"name": "Mayme Burgess",
+		"birthYear": 1932,
+		"deathYear": 1956
+	},
+	{
+		"name": "Chris Day",
+		"birthYear": 1958,
+		"deathYear": 1973
+	},
+	{
+		"name": "Abbie Collins",
+		"birthYear": 1901,
+		"deathYear": 1995
+	},
+	{
+		"name": "Mable Becker",
+		"birthYear": 1928,
+		"deathYear": 1972
+	},
+	{
+		"name": "Lina Mitchell",
+		"birthYear": 1989,
+		"deathYear": 1995
+	},
+	{
+		"name": "Eliza Rodriquez",
+		"birthYear": 1937,
+		"deathYear": 1966
+	},
+	{
+		"name": "Joseph Diaz",
+		"birthYear": 1966,
+		"deathYear": 1993
+	},
+	{
+		"name": "Florence Walker",
+		"birthYear": 1942,
+		"deathYear": 1969
+	},
+	{
+		"name": "Bobby Ray",
+		"birthYear": 1977,
+		"deathYear": 1978
+	},
+	{
+		"name": "Dustin Turner",
+		"birthYear": 1927,
+		"deathYear": 1991
+	},
+	{
+		"name": "Katherine Griffith",
+		"birthYear": 1986,
+		"deathYear": 1996
+	},
+	{
+		"name": "Milton Payne",
+		"birthYear": 1939,
+		"deathYear": 1960
+	},
+	{
+		"name": "Eleanor Vasquez",
+		"birthYear": 1996,
+		"deathYear": 1997
+	},
+	{
+		"name": "Catherine Parker",
+		"birthYear": 1914,
+		"deathYear": 1957
+	},
+	{
+		"name": "Shane Vargas",
+		"birthYear": 1945,
+		"deathYear": 1960
+	},
+	{
+		"name": "Jeff Murphy",
+		"birthYear": 1942,
+		"deathYear": 1999
+	},
+	{
+		"name": "Fannie Vaughn",
+		"birthYear": 1940,
+		"deathYear": 1965
+	},
+	{
+		"name": "Anthony Ortega",
+		"birthYear": 1908,
+		"deathYear": 1945
+	},
+	{
+		"name": "Marie Mason",
+		"birthYear": 1994,
+		"deathYear": 1994
+	},
+	{
+		"name": "Amy Bradley",
+		"birthYear": 1918,
+		"deathYear": 1980
+	},
+	{
+		"name": "Katie Daniels",
+		"birthYear": 1985,
+		"deathYear": 1991
+	},
+	{
+		"name": "Ola Beck",
+		"birthYear": 1940,
+		"deathYear": 1952
+	},
+	{
+		"name": "Joshua Hammond",
+		"birthYear": 1938,
+		"deathYear": 1965
+	},
+	{
+		"name": "Noah Singleton",
+		"birthYear": 1978,
+		"deathYear": 1985
+	},
+	{
+		"name": "Margaret Medina",
+		"birthYear": 1924,
+		"deathYear": 1984
+	},
+	{
+		"name": "Birdie Ramos",
+		"birthYear": 1974,
+		"deathYear": 1984
+	},
+	{
+		"name": "Polly Palmer",
+		"birthYear": 1926,
+		"deathYear": 1957
+	},
+	{
+		"name": "Sam Carlson",
+		"birthYear": 1980,
+		"deathYear": 1988
+	},
+	{
+		"name": "Olive Underwood",
+		"birthYear": 1947,
+		"deathYear": 1951
+	},
+	{
+		"name": "Kathryn Nichols",
+		"birthYear": 1922,
+		"deathYear": 1970
+	},
+	{
+		"name": "Billy Nelson",
+		"birthYear": 1942,
+		"deathYear": 1994
+	},
+	{
+		"name": "Jerome Riley",
+		"birthYear": 1907,
+		"deathYear": 1921
+	},
+	{
+		"name": "Anne Thomas",
+		"birthYear": 1983,
+		"deathYear": 1997
+	},
+	{
+		"name": "Mable Walters",
+		"birthYear": 1944,
+		"deathYear": 1983
+	},
+	{
+		"name": "Ella Floyd",
+		"birthYear": 1979,
+		"deathYear": 1991
+	},
+	{
+		"name": "Hester Bowman",
+		"birthYear": 1950,
+		"deathYear": 1965
+	},
+	{
+		"name": "Georgie Griffin",
+		"birthYear": 1915,
+		"deathYear": 1939
+	},
+	{
+		"name": "Jimmy Coleman",
+		"birthYear": 1954,
+		"deathYear": 1997
+	},
+	{
+		"name": "Gabriel Dean",
+		"birthYear": 1985,
+		"deathYear": 1987
+	},
+	{
+		"name": "Mina Reid",
+		"birthYear": 1961,
+		"deathYear": 1988
+	},
+	{
+		"name": "Bertie Pittman",
+		"birthYear": 1998,
+		"deathYear": 2000
+	},
+	{
+		"name": "Harriett Clarke",
+		"birthYear": 1990,
+		"deathYear": 1990
+	},
+	{
+		"name": "David Warren",
+		"birthYear": 1992,
+		"deathYear": 1999
+	},
+	{
+		"name": "Ada Ray",
+		"birthYear": 1932,
+		"deathYear": 1979
+	},
+	{
+		"name": "Nancy Banks",
+		"birthYear": 1985,
+		"deathYear": 1996
+	},
+	{
+		"name": "Francis Perry",
+		"birthYear": 1942,
+		"deathYear": 1995
+	},
+	{
+		"name": "Lilly Ellis",
+		"birthYear": 1948,
+		"deathYear": 1959
+	},
+	{
+		"name": "Ronnie Lowe",
+		"birthYear": 1967,
+		"deathYear": 1969
+	},
+	{
+		"name": "Ellen Bowers",
+		"birthYear": 1988,
+		"deathYear": 1994
+	},
+	{
+		"name": "Anthony Zimmerman",
+		"birthYear": 1924,
+		"deathYear": 1957
+	},
+	{
+		"name": "Matilda Brock",
+		"birthYear": 1942,
+		"deathYear": 1967
+	},
+	{
+		"name": "Cornelia Reeves",
+		"birthYear": 1958,
+		"deathYear": 1961
+	},
+	{
+		"name": "Logan Graves",
+		"birthYear": 1994,
+		"deathYear": 1996
+	},
+	{
+		"name": "Leila Reynolds",
+		"birthYear": 1982,
+		"deathYear": 1991
+	},
+	{
+		"name": "Jesus Palmer",
+		"birthYear": 1993,
+		"deathYear": 1995
+	},
+	{
+		"name": "Hattie Glover",
+		"birthYear": 1976,
+		"deathYear": 1985
+	},
+	{
+		"name": "Clifford Miles",
+		"birthYear": 1960,
+		"deathYear": 1974
+	},
+	{
+		"name": "Nannie Pittman",
+		"birthYear": 1966,
+		"deathYear": 1969
+	},
+	{
+		"name": "Mason Byrd",
+		"birthYear": 1967,
+		"deathYear": 1990
+	},
+	{
+		"name": "Clarence Barton",
+		"birthYear": 1910,
+		"deathYear": 1933
+	},
+	{
+		"name": "Katie Potter",
+		"birthYear": 1935,
+		"deathYear": 1979
+	},
+	{
+		"name": "Belle Patterson",
+		"birthYear": 1960,
+		"deathYear": 1972
+	},
+	{
+		"name": "Floyd Powers",
+		"birthYear": 1960,
+		"deathYear": 1968
+	},
+	{
+		"name": "Ethel Foster",
+		"birthYear": 1986,
+		"deathYear": 1989
+	},
+	{
+		"name": "Ivan Rogers",
+		"birthYear": 1945,
+		"deathYear": 1952
+	},
+	{
+		"name": "Lydia Edwards",
+		"birthYear": 1981,
+		"deathYear": 1991
+	},
+	{
+		"name": "Sophie Carpenter",
+		"birthYear": 1904,
+		"deathYear": 1997
+	},
+	{
+		"name": "Dominic Bridges",
+		"birthYear": 1972,
+		"deathYear": 1990
+	},
+	{
+		"name": "Bessie French",
+		"birthYear": 1989,
+		"deathYear": 1999
+	},
+	{
+		"name": "Barbara Thomas",
+		"birthYear": 1971,
+		"deathYear": 1997
+	},
+	{
+		"name": "Lester Ball",
+		"birthYear": 1990,
+		"deathYear": 1999
+	},
+	{
+		"name": "Madge Becker",
+		"birthYear": 1932,
+		"deathYear": 1961
+	},
+	{
+		"name": "Sara Vega",
+		"birthYear": 1985,
+		"deathYear": 1991
+	}
+]

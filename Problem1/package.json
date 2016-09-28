@@ -1,0 +1,12 @@
+{
+	"name": "SGGenerateList",
+ 	"version": "1.3.37",
+ 	"description": "A module for generating ",
+	"private": true,
+ 	"author": "Chris Galvan",
+ 	"main": "genereateList.js",
+	"dependencies": {
+		"chance": "1.0.4",
+	    "yargs": "5.0.0"
+	}
+}
