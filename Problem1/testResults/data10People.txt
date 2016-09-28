@@ -1,0 +1,4 @@
+Most number of people alive: 4
+Year(s) with most people alive:
+	1978 - Martha Bailey, Elsie Webster, Brandon Sanders, Thomas Garrett
+	1979 - Martha Bailey, Elsie Webster, Brandon Sanders, Thomas Garrett

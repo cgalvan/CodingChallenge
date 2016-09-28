@@ -40,5 +40,10 @@ Year(s) with most people alive:
         1989 - Randall Burton
 ```
 
+### Test Output
+You can find sample JSON input files under the testData folder along with their
+expected outputs under the testResults folder with the same name.  These sample outputs
+showcase different sample sizes, as well as error handling cases.
+
 ## Problem 2
 TODO
